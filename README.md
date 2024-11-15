@@ -1,0 +1,1 @@
+All the documentation are for sample purpose only. They do not include any company's intellectual property, neither use the actual software navigation GUI. However, the description can help people understand the writing workflow.  
