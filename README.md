@@ -1,1 +1,1 @@
-All the documentation are for sample purpose only.
+All the documents are for sample purpose only.
