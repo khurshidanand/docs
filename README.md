@@ -1,1 +1,1 @@
-All the documents are for sample purpose only. If there is no preview of a document, download the required document to view it.
+Note: Sometimes documents are not rendered correctly. Download the PDFs and view on your computer.
